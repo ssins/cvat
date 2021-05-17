@@ -527,7 +527,7 @@ Downloaded file: a zip archive with the structure described [here](https://githu
   - arbitrary attributes - will be stored in the `attributes` annotation section
 
 Support for COCO tasks via Datumaro is described [here](https://github.com/openvinotoolkit/datumaro/blob/develop/docs/formats/coco_user_manual.md#export-to-coco)
-For example, export COCO keypoints:
+For example, [support for COCO keypoints over Datumaro](https://github.com/openvinotoolkit/cvat/issues/2910#issuecomment-726077582):
 
 1. Install [Datumaro](https://github.com/openvinotoolkit/datumaro)
   `pip install datumaro`
